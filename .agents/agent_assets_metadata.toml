@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "QlzMyAXfiauRIFqYQcqVP"
+uri = "file://generated-artifacts/ai-workshop-2026.zip"
+type = "unspecified"
+title = "AI Workshop 2026 website ZIP"
+description = "Built static website files, README, and an editable event-details reference."
+logical_id = "b3206293-ea1b-4492-ac7c-ff571066b514"
+content_hash = "sha256:8b51fce627ba1f9ff44d965c3c2fe308e1fdc2c82f0bd7d0c6478bd9bfb4bef9"
+size = 129378
+mtime_ms = 1792920581918
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:afd8a519-3431-40ae-a595-a50e9596fcb7/b3206293-ea1b-4492-ac7c-ff571066b514/b047929f-c742-49e5-89e5-d2a93cbbc768"
+storage_version_token = "1792920590860989"
+content_type = "application/octet-stream"
